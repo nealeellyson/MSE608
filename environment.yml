@@ -8,3 +8,4 @@ dependencies:
 - freud
 - hoomd
 - fresnel
+- gsd
