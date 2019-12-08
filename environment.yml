@@ -9,3 +9,4 @@ dependencies:
 - hoomd
 - fresnel
 - gsd
+- matplotlib
