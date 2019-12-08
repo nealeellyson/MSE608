@@ -1,0 +1,9 @@
+name: 2019projects
+
+dependencies:
+- python
+- numpy
+- pandas
+- scipy
+- freud
+- hoomd
